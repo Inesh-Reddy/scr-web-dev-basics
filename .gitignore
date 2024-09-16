@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files for macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Trash directory
+.Trashes
+
+# Thumbnail cache files
+._*
+
+# Files created by macOS
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
+.VolumeIcon.icns
+.TemporaryItems
+.apdisk
+
+# ENV files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm package locks
+package-lock.json
+yarn.lock
+
+# Miscellaneous
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.swp
+echo "add-name-and-emoji/Scrim-s01rde8v8a/node_modules/public-encrypt/test/test_rsa_privkey.pem" 
+
